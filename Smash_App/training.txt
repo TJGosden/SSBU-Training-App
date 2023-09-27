@@ -8,5 +8,3 @@ Dthrow Uair Thunder
 Bair Uair Uair Thunder
 Nair Loop Platform Extension
 DI in Uair bridges
-
-potatoe
