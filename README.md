@@ -1,6 +1,8 @@
 # SSBU-Training-App
 A app to help practice and train combos, moves, movement in Super Smash Bros. Ultimate or any other fighting game if you wish. It also comes with a character randomiser.
 
+Comes with preset training task for Pikachu.
+
 Download all files and run "app.py" to start the programme.
 
 ![Smash_app_hub](https://github.com/TJGosden/SSBU-Training-App/assets/129090250/cb54fc15-fb29-467e-af69-ff65e5b4e7e5)
