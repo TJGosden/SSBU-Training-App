@@ -5,3 +5,4 @@ Download all files and run "app.py" to start the programme.
 
 ![Settings](Smash App Pictures)
 
+![Smash_app_hub](https://github.com/TJGosden/SSBU-Training-App/assets/129090250/cb54fc15-fb29-467e-af69-ff65e5b4e7e5)
